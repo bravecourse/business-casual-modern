@@ -1,2 +1,5 @@
-# business-casual-modern
-modern template // https://bravecamp.github.io/business-casual-modern/
+# business-casual
+
+Template for a simple business 
+
+Preview at https://bravecamp.github.io/business-casual/
